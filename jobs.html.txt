@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Job Listings - [Your Business Name]</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>[Your Business Name]</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="jobs.html">Job Listings</a>
+    <a href="apply.html">Apply</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
+
+<section class="jobs">
+  <h2>Current Job Openings</h2>
+  <div class="job">
+    <h3>Software Developer</h3>
+    <p>Location: Remote | Experience: 1-3 years</p>
+    <a href="apply.html">Apply Now</a>
+  </div>
+  <div class="job">
+    <h3>Marketing Executive</h3>
+    <p>Location: Delhi | Experience: 0-2 years</p>
+    <a href="apply.html">Apply Now</a>
+  </div>
+</section>
+
+<footer>
+  <p>&copy; 2025 [Your Business Name]. All rights reserved.</p>
+</footer>
+</body>
+</html>
